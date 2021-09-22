@@ -131,8 +131,8 @@ def main():
         obj_load("models/fish/fish.obj", "models/fish/fish.jpg")
 
     plato, plato_tex, plato_texture_offset, plato_normal_offset = \
-         obj_load("models/putin/putin.obj", "models/putin/putin.png")
-    # obj_load("models/plato/plato.obj", "models/plato/plato.png")
+         obj_load("models/plato/plato.obj", "models/plato/plato.png")
+    # obj_load("models/putin/putin.obj", "models/putin/putin.png")
 
     floor, floor_tex, floor_texture_offset, floor_normal_offset = \
         obj_load("models/floor/floor.obj", "models/floor/floor.png")
